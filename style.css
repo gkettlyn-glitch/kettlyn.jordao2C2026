@@ -22,4 +22,6 @@ padding: 10px; }
  img {
 border-radius: 20px;
 width: 750px;
+display: block;
+margin: 0px;
 }
