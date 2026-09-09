@@ -13,7 +13,7 @@ text-align: center;
 nav { margin: 15px 0; }
 main{
 margin: 10px;
-    padding: 20px;
+padding: 20px;
 border: 1px solid #2e068d;
 border-radius: 20px;
 background-color: #b99dfc;
@@ -21,6 +21,7 @@ background-color: #b99dfc;
 footer {
 margin-top: 20px; border-top: 1px solid #000000;
 padding: 10px;
+border-radius: 20px;
 background-color: aquamarine;
 }
  img {
